@@ -7,7 +7,7 @@ import java.util.Random;
  * You can run SchellingVisualizer to see a nicer graphical
  * version.
  * 
- * @author zives, modified by swapneel
+ * @author zives, modified by swapneel, holecko, and bhatt
  *
  */
 public class SchellingSimulator {
