@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 /**
  * Graphical visualizer for Schelling simulator
  * 
- * @author zives, modified by swapneel
+ * @author zives, modified by swapneel, holecko, and bhatt
  * 
  */
 public class SchellingVisualizer {
