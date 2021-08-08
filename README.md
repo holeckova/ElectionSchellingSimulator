@@ -28,7 +28,7 @@ SchellingSimulator.java
 	(1) Added functions to calculate the election outcomes.
 	(2) Divided the Schelling map into regions to resemble states.
 	(3) Modified the main method into a function to be called by Main.java.  
-	(4) Mdified the populate function to call different proportions for each class (republican/democrat/other). 
+	(4) Modified the populate function to call different proportions for each class (republican/democrat/other). 
 	
 SchellingVisualizer.java
 	Function: Creates Map of Simulation
